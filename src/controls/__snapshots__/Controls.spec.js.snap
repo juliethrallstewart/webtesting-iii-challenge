@@ -12,6 +12,7 @@ exports[`<Controls /> matches snapshot 1`] = `
   </button>
   <button
     className="toggle-btn"
+    data-test-id="gateStatus"
   >
     Close Gate
   </button>

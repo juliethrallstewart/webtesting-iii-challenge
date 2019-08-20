@@ -28,6 +28,7 @@ Array [
     </button>
     <button
       className="toggle-btn"
+      data-test-id="gateStatus"
       disabled={false}
       onClick={[Function]}
     >
